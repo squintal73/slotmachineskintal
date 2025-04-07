@@ -215,7 +215,8 @@ const SlotMachine = () => {
   return (
     <div className="container">
       <header className="header">
-        <h1 className="title">Caça-Níqueis Skintal</h1>
+        <h1 className="title">Caça-Níqueis Skintal </h1>
+        <h3>versão beta</h3>
       </header>
       
       <div className="slotMachine">
