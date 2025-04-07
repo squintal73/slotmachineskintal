@@ -15,7 +15,7 @@ const SlotMachine = () => {
     '💎💎💎': 100,
     'default': 2
   };
-  const INITIAL_BALANCE = 1000;
+  const INITIAL_BALANCE = 100;
   const MIN_BET = 5;
   const MAX_BET = 100;
   const BET_STEP = 5;
@@ -283,7 +283,7 @@ const SlotMachine = () => {
           <tbody>
             {Object.entries(PAYTABLE).map(([combo, multiplier]) => (
               <tr key={combo}>
-                <td>{combo.split('').join(' ')}</td>
+                <td>{combo.split(' ').join(' ')}</td>
                 <td>x{multiplier}</td>
               </tr>
             ))}
