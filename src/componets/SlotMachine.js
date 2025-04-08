@@ -41,8 +41,8 @@ const SlotMachine = () => {
   useEffect(() => {
     // Carrega os áudios
     audioRefs.current = {
-      spin: new Audio('https://assets.mixkit.co/sfx/preview/mixkit-slot-machine-spin-1930.mp3'),
-      win: new Audio('https://assets.mixkit.co/sfx/preview/mixkit-winning-chimes-2015.mp3'),
+      spin: new Audio('https://audio-previews.elements.envatousercontent.com/files/294511074/preview.mp3'),
+      win: new Audio('https://audio-previews.elements.envatousercontent.com/files/230254582/preview.mp3'),
       lose: new Audio('https://assets.mixkit.co/sfx/preview/mixkit-retro-arcade-lose-2027.mp3')
     };
 
