@@ -90,7 +90,7 @@ const SlotMachine = () => {
       setTimeout(() => {
         setMessage('');
         setMessageType('');
-      }, 2000);
+      }, 3500);
     }
   };
 
