@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/slotmachineskintal/static/css/main.9cb41cd0.css",
-    "main.js": "/slotmachineskintal/static/js/main.eccf35b5.js",
+    "main.js": "/slotmachineskintal/static/js/main.14e8da5a.js",
     "static/js/453.f69084c2.chunk.js": "/slotmachineskintal/static/js/453.f69084c2.chunk.js",
     "index.html": "/slotmachineskintal/index.html",
     "main.9cb41cd0.css.map": "/slotmachineskintal/static/css/main.9cb41cd0.css.map",
-    "main.eccf35b5.js.map": "/slotmachineskintal/static/js/main.eccf35b5.js.map",
+    "main.14e8da5a.js.map": "/slotmachineskintal/static/js/main.14e8da5a.js.map",
     "453.f69084c2.chunk.js.map": "/slotmachineskintal/static/js/453.f69084c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cb41cd0.css",
-    "static/js/main.eccf35b5.js"
+    "static/js/main.14e8da5a.js"
   ]
 }
