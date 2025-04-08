@@ -43,7 +43,7 @@ const SlotMachine = () => {
     audioRefs.current = {
       spin: new Audio('https://audio-previews.elements.envatousercontent.com/files/294511074/preview.mp3'),
       win: new Audio('https://audio-previews.elements.envatousercontent.com/files/230254582/preview.mp3'),
-      lose: new Audio('https://assets.mixkit.co/sfx/preview/mixkit-retro-arcade-lose-2027.mp3')
+      lose: new Audio('https://audio-previews.elements.envatousercontent.com/files/407349893/preview.mp3')
     };
 
     // Pré-carrega os áudios
